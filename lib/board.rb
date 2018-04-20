@@ -4,5 +4,5 @@ board = []
 couter = 0
 while counter <10
   board << " "
-  counter +=1
+  counter += 1
 end
