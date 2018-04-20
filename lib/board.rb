@@ -1,6 +1,4 @@
 # Define the variable board below.
-board = [];
+board = []
 
-9.loop do
 board << " "
-end
